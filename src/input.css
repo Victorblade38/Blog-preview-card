@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-c-yellow {
+  background-color: hsl(47, 88%, 63%);
+}
+
+.text-c-yellow {
+  color: hsl(47, 88%, 63%);
+}
+
+* {
+  font-family: "Figtree", sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+}
